@@ -1,0 +1,5 @@
+*
+!.gitignore
+!prepare_release.ps1
+!update_github_token.ps1
+!README.md
